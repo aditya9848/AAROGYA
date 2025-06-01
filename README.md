@@ -4,6 +4,10 @@ Project Overview:
 
 The purpose of this academic project is to develop a static website for "Aarogya," a popular medical company that specializes in providing various services like the location services, first aid instruction services and the medical drug information service to the users. The website will showcase the company's services, top reviews, and contact information. The website will be built using HTML, CSS, to ensure a responsive and visually appealing user interface.
 
+Project Glimpses: 
+
+![alt text](image-url)
+
 Project Goals:
 
 1.	Develop a static website for Aarogya to establish an online presence and showcase their expertise services offered by the Aarogya Team to the end users.
