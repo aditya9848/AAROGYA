@@ -6,7 +6,7 @@ The purpose of this academic project is to develop a static website for "Aarogya
 
 Project Glimpses: 
 
-![alt text](image-url)
+![Glimpse 1](example1.png)
 
 Project Goals:
 
