@@ -8,6 +8,12 @@ Project Glimpses:
 
 ![Glimpse 1](example1.png)
 
+![Glimpse 2](example2.png)
+
+![Glimpse 3](example3.png)
+
+![Glimpse 4](example4.png)
+
 Project Goals:
 
 1.	Develop a static website for Aarogya to establish an online presence and showcase their expertise services offered by the Aarogya Team to the end users.
